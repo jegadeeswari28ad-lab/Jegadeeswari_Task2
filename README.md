@@ -170,23 +170,7 @@ This project demonstrates the application of machine learning in wine quality pr
 - Streamlit Web Application
 - Real-Time Prediction System
 
----
 
-## Repository Structure
-
-```text
-Jegadeeswari_Task2/
-│
-├── WineQT.csv
-├── Jegadeeswari_Task2.ipynb
-├── README.md
-└── requirements.txt
-```
-
-## Requirements
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 ## Author
